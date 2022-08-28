@@ -34,6 +34,11 @@ img{
 
 /*************************************** CLASS SELECTOR ****************************************/
 
-.more-info:hover{
+.hobbies:hover{
   background-color: gold;
+  display: inline-block;
+}
+.contact:hover{
+  background-color: grey;
+  display: inline-block;
 }
