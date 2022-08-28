@@ -1,0 +1,39 @@
+body {
+  background-color: #CFE8A9;
+}
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: #FEC260;
+  border-width: 5px;
+  width: 10%;
+}
+h1:hover{
+  color: #66BFBF;
+  font-family: "Garamond", Courier, monospace;
+}
+h3{
+  color: #5800FF;
+  font-family: "Garamond", Courier, monospace;
+}
+li{
+  font-family: "Garamond", Courier, monospace;
+}
+p{
+  font-family: "Garamond", Courier, monospace;
+}
+table{
+  font-family: "Garamond", Courier, monospace;
+}
+label{
+  font-family: "Garamond", Courier, monospace;
+}
+img{
+
+}
+
+/*************************************** CLASS SELECTOR ****************************************/
+
+.more-info:hover{
+  background-color: gold;
+}
